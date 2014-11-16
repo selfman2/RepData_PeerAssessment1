@@ -1,0 +1,2 @@
+options(rpubs.upload.method = "internal") 
+# just needed, if there is no curl, or if there is a proxy involved
